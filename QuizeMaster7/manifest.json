@@ -1,0 +1,25 @@
+
+{
+  "short_name": "QuizMaster",
+  "name": "QuizMaster: Тренажер тестов",
+  "description": "Интерактивный тренажер тестов из .docx файлов",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3407/3407024.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3407/3407024.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#4f46e5",
+  "background_color": "#ffffff"
+}

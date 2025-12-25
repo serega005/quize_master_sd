@@ -1,0 +1,5 @@
+{
+  "name": "Docx Quiz Master",
+  "description": "A professional interactive quiz trainer that allows users to upload .docx files containing questions, parses them intelligently, and provides a polished testing environment.",
+  "requestFramePermissions": []
+}
